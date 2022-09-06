@@ -1,2 +1,2 @@
 ### To Do List React App Project
-> npm start
+> https://khris-cpu.github.io/To-Do-List-React
